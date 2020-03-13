@@ -1,0 +1,13 @@
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\bin\Debug\TerminalPC.exe.config
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\bin\Debug\TerminalPC.exe
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\bin\Debug\TerminalPC.pdb
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.csprojAssemblyReference.cache
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.Form1.resources
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.Properties.Resources.resources
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.csproj.GenerateResource.cache
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.csproj.CoreCompileInputs.cache
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.exe
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.pdb
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.FormCommands.resources
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.FormChat.resources
+C:\Users\Yuval Froman\Desktop\Terminal\TerminalProject\TerminalPC\TerminalPC\obj\Debug\TerminalPC.FormFileTransfer.resources
